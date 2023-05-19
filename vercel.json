@@ -1,0 +1,13 @@
+{
+
+  "functions": {
+
+    "api/*.php": {
+
+      "runtime": "@pyhton"
+
+    }
+
+  }
+
+}
