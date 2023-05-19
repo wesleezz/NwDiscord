@@ -2,9 +2,9 @@
 
   "functions": {
 
-    "api/*.php": {
+    "api/*.py": {
 
-      "runtime": "@pyhton"
+      "runtime": "pyhton3.8.0"
 
     }
 
